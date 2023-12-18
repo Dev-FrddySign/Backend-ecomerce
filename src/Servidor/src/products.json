@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "El Señor De Las Moscas",
+    "category": "Accion",
+    "description": "By williwm golding",
+    "price": 2000,
+    "img": "Servidor/public/El_Sr_d_las_moscas.jpg",
+    "stock": 5
+  },
+  {
+    "id": "2",
+    "title": "La torre de los siete jorobados",
+    "category": "Accion",
+    "description": "By Emilio Carrere",
+    "price": 2120,
+    "img": "Servidor/public/La_torre_de_los_siete_jorobados.jpg",
+    "stock": 5
+  },
+  {
+    "id": "3",
+    "title": "En busca de la Atlántida",
+    "category": "Accion",
+    "description": "By Andy McDermott",
+    "img": "Servidor/public/En_busca_de _la_Atlántida.jpg",
+    "price": 3500,
+    "stock": 5
+  },
+  {
+    "id": "4",
+    "title": "Harry Potter y las reliquías de la muerte ",
+    "category": "Accion",
+    "description": "By J. K. Rowling ",
+    "price": 2000,
+    "img": "Servidor/public/harry-potter-y-las-reliquias-de-la-muerte-harry-potter-7.jpg",
+    "stock": 5
+  },
+  {
+    "id": "5",
+    "title": "La leyenda de la peregrina",
+    "category": "Aventuras",
+    "description": "By Carmen Posadas",
+    "price": 2120,
+    "img": "Servidor/public/La_Leyenda_de_la_Pelegrina.jpg",
+    "stock": 5
+  }
+]  {
+    "id": "5",
+    "title": "La leyenda de la peregrina",
+    "category": "Aventuras",
+    "description": "By Carmen Posadas",
+    "price": 2120,
+    "img": "Servidor/public/imagenes/La_Leyenda_de_la_Pelegrina.jpg",
+    "stock": 5
+  }
+]
